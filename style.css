@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+#photo{
+    width: 100%;
+    margin-bottom: 50px;
+    border: none;
+}
+
+#marqueestyle{
+    background-color: lightpink;
+    color: black;
+    font-size: 15px;
+}
+
+.my-nav-nar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+.map iframe{
+width: 100%;
+}
+
+#convent{
+    margin-top: 10px;
+   height:25px;
+        border-radius: 20px;
+}
+#heritage{
+     border-radius: 20px;
+   height:25px 
+}
+.School1{
+    height: 20px;
+}
+#heritage1{
+    height:350px;
+}
+
+#img1{
+    height:250px;
+    width: 290px
+}
+
+#img2{
+    height:290px;
+    width: 460px
+}
+
+#convent1{
+    height: 350px;
+}
+
+
+
+
+
+
+
+
